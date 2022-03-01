@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Edinburgh, the ninth day of October, one thousand six hundred and sixty seven. The Lords of his Majesties Privy Council, in pursuance of his Majesties gracious pleasure contained in his royal proclamation above mentioned, do give power, warrand, and commission to the persons following, within the several bounds and jurisdictions under-written ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05399</idno>
+            <idno type="STC">Wing S1525</idno>
+            <idno type="STC">ESTC R183093</idno>
+            <idno type="EEBO-CITATION">53981730</idno>
+            <idno type="OCLC">ocm 53981730</idno>
+            <idno type="VID">180358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05399)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180358)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Edinburgh, the ninth day of October, one thousand six hundred and sixty seven. The Lords of his Majesties Privy Council, in pursuance of his Majesties gracious pleasure contained in his royal proclamation above mentioned, do give power, warrand, and commission to the persons following, within the several bounds and jurisdictions under-written ...</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Evan Tyler, Printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letters; text of proclamation in black letter.</note>
+                  <note>Proclamation signed: Pet. Wedderburne, Cl. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:180358:1"/>
+            <!-- PDF PAGE 7 -->
+            <opener>
+               <dateline>At <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> 
+                  <date>the ninth day of <hi>October,</hi> one thouſand ſix hundred and ſixty ſeven.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords of His Majeſties Privy Council, in purſuance of His Majeſties gracious pleaſure contained in His Royal Proclamation above mentioned, do give Power, Warrand and Commiſſion to the perſons following, within the ſeveral Bounds and Iuriſdictions under-written, <hi>viz.</hi> To the Lord <hi>Lie,</hi> the Lairds of <hi>Raploch, Corhouſe, Cambuſnetham,</hi> Sir <hi>John Whitefuird</hi> and Mr. <hi>John Hamiltoun</hi> of <hi>Raith,</hi> Sheriff-Depute, for the Sheriffdom of <hi>Lanerk,</hi> the Mr. of <hi>Cochran,</hi> Sir <hi>John Cochran,</hi> the Lord <hi>Stair,</hi> Sir <hi>Thomas Wallace</hi> of <hi>Craigie,</hi> Mr. <hi>John Cunninghame</hi> Advocat, Mr. <hi>James Cunning<g ref="char:EOLhyphen"/>hame</hi> Sheriff-Depute of <hi>Air,</hi> Mr. <hi>Hugh Montgomery</hi> Sheriff-Depute of <hi>Renfrew,</hi> and <hi>William Cunning<g ref="char:EOLhyphen"/>hame</hi> late Provoſt of <hi>Air,</hi> for the Sheriffdoms of <hi>Air</hi> and <hi>Renfrew.</hi> The Mr. of <hi>Hereis,</hi> the Sheriff of <hi>Galloway,</hi> the Laird of <hi>Baldoone,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Maxwel</hi> of <hi>Munſhes,</hi> and  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Maxwel</hi> of <hi>Woodhead,</hi> for the Sheriffdom of <hi>Wigtoun</hi> and Stewartry of <hi>Kircudbright, James Crichton</hi> of <hi>St. Leonards,</hi> the Lairds of <hi>Craig<g ref="char:EOLhyphen"/>darroch</hi> and <hi>Weſter-raw,  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Douglas</hi> of <hi>Mouſehill,</hi> and  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  
+               <hi>Carruthers</hi> of <hi>Howmaynes,</hi> for the Sheriffdom of <hi>Dumfrice</hi> and Stewartry of <hi>Annandale,</hi> or any two of them for ilk Shire and Stewartry above ſpe<g ref="char:EOLhyphen"/>cified, and to the Lords of Seſſion, or any two of them for all the other Bounds and Shires of the Kingdom: to meet and conveen at the Head Burghs of the reſpective Shires and Stewartries, and the Lords of Seſſion to meet at <hi>Edinburgh,</hi> upon the twenty two and twenty ninth of <hi>October</hi> inſtant, and the firſt and laſt Tueſdayes of both the moneths of <hi>November</hi> and <hi>December</hi> thereafter; And there to receive Bonds for keeping of the Peace, from all ſuch perſons as have been acceſſory to the late inſur<g ref="char:EOLhyphen"/>rection, and are now to have the benefit of His Majeſties Pardon, in manner contained in His Ma<g ref="char:EOLhyphen"/>jeſties Proclamation; that is to ſay, Bond and Caution from all ſuch as are able to find Caution, and that under ſuch pains, as the ſaids Commiſſioners, or reſpective <hi>quorums</hi> thereof ſhall appoint. And for ſuch as ſhall make faith, that they are not able to find Caution, that they accept from them their own Bonds, conform to the tenor of the Bond hereunto ſubjoyned: And upon the ſaids perſons ſubſcribing of the ſaids Bonds, that the ſaids Commiſſioners give a Teſtificate under their hands, bearing, that they have ſigned the ſame, and are thereby to have the benefit of His Majeſties Pardon, contained in the fore<g ref="char:EOLhyphen"/>ſaid Proclamation: And ordains all ſuch Bonds as ſhall be ſubſcribed by the ſaids perſons to be return<g ref="char:EOLhyphen"/>ed by the ſaids Commiſſioners to the Clerk of His Majeſties Council, that they may be inſert and re<g ref="char:EOLhyphen"/>giſtrat in the Books thereof, betwixt and the fifteenth day of <hi>January</hi> next. And ordains theſe preſents, with the ſaid Proclamation and Bonds underwritten, to be printed, and publiſhed by Macers, or Meſſen<g ref="char:EOLhyphen"/>gers of Arms, at the Mercat-croſſe of <hi>Edinburgh,</hi> and at the Mercat croſſes of <hi>Lanerk, Air, Renfrew, Wigtoun,</hi> Stewartry of <hi>Kircudbright, Dumfrice,</hi> and other places needful, that none pretend ignorance.</p>
+            <closer>
+               <signed>
+                  <hi>Pet. Wedderburne, <hi>Cl. S<hi rend="sup">ti.</hi> Concilii.</hi>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <head>Followes the Tenor of the Bond to be ſubſcribed by ſuch of the Rebels as are able to find Caution.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>A. B.</hi> Bind and obliege me, That I ſhall keep the Publick Peace, and that I ſhall not riſe in Arms, againſt, or with<g ref="char:EOLhyphen"/>out His Majeſties Authority, under all higheſt pains that may follow, in caſe I ſhall do any thing in the contrair. And for further ſurety, <hi>C. D.</hi> doth bind and obliege himſelf, as Cautioner, for me, for my keeping of the Peace, and perfor<g ref="char:EOLhyphen"/>mance of the Obliegement foreſaid, under the pain of  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  to be paid in caſe I contra<g ref="char:EOLhyphen"/>veen the ſame. Likeas, in the caſe foreſaid, the ſaid <hi>C. D.</hi> my Cautioner, binds and oblieges him, his Heirs and Succeſſors, to pay the foreſaid ſum to the Commiſſioners of His Majeſties Theſaury, Theſaurer, or Theſaurer-Depute that ſhall happen to be for the time, for His Majeſties uſe. And I the ſaid <hi>A. B.</hi> binds and oblieges me, my Heirs and Succeſſors, to relieve my Cautioner of the Premiſſes, and of all damnage he ſhall happen to ſuſtain there-through, in any ſort; Conſenting theſe preſents be Regiſtrat in the Books of Privy Council, that all execution neceſſary may paſs hereupon, in form as effeirs: And conſtitutes  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  our Procurators; In witneſs whereof, written by  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  we have ſubſcribed theſe preſent, at <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="oath">
+            <head>Followes the Bond to be ſubſcribed by ſuch as are not able to find Caution.</head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>A. B.</hi> bind and oblige me, That I ſhall keep the Publick Peace, and that I ſhall not riſe in Arms againſt, or without His Majeſties Authority, under all higheſt pains that may follow, in caſe I ſhall do any thing in the contrair; Conſenting theſe preſents be Regiſtrat in the Books of Privy Council, that all execution neceſſary may paſs hereupon, in form as effeirs. And conſtitutes  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  my Procurators; In witneſs whereof, written by  <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>  I have ſubſcribed theſe preſents, at <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent MAjESTY, 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
